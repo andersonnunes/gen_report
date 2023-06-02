@@ -1,6 +1,7 @@
 # GenReport
 
-Desafio 01 - Gerando relatórios
+Desafio 01 - Gerando relatórios\
+Desafio 02 - Gerando relatórios com paralelismo
 
 ## Installation
 
